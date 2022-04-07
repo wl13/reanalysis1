@@ -7,15 +7,17 @@ Original data and plots uesd for reanalysis purposed
 
 <br />
 
-### complete_mutation_list_with_labels.v3.xlsx
+### File A1.complete_mutation_list_with_labels.v4.xlsx
 
-This excel file contains three sheets:
+This excel file contains four sheets:
 
 full_list - A complete list of mutations used in the reanalysis studies. Detailed explanations are given in the header and comments.
 
 counts_of_filtered_SNMs - Counts of numbers in different regions. 
 
-gene_analysis - Analysis of 2339 genes of different essentiality, same content as the input file in essentiality_plot/data/gene_level_data.SNMs.csv
+essentiality_counts - Analysis of 2339 genes of different essentiality, same content as the input file in essentiality_plot/data/gene_level_data.SNMs.csv
+
+essentiality_chisq - Chi-squared tables and statistics of essentiality
 
 <br />
 
@@ -29,8 +31,8 @@ Data used and original plots regarding TSS/TTS regions, detailed statistics are 
 
 <br />
 
-### example_snapshots_of_homomeric_associated_mutations.v2.pptx
-Example of BAM alignments shown in IGV (http://www.broadinstitute.org/software/igv/), more snapshots are available in igv_snapshots_for_clustered_somatic_mutations
+### File A2.example_snapshots_of_homomeric_associated_mutations.v2.pptx
+Example of BAM alignments shown in IGV (http://www.broadinstitute.org/software/igv/), more snapshots are available in *igv_snapshots_for_clustered_somatic_mutations*
 
 <br />
 
