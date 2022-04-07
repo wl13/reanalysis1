@@ -3,17 +3,28 @@
 
 The PERL scripts require the "MyPerl" module to be included in the PERL5LIB path, or be placed at the same folder with the scripts.
 
+<br />
+
 Run perl script without any parameters will return the usage. 
+
+<br />
+
 
 ### Additional tools used:
 (1) Linux awk;
+
 (2) samtools v1.12 (http://www.htslib.org/);
+
 (3) bedtools v2.30.0 (https://github.com/arq5x/bedtools2)
+
 (4) Other required PERL modules: "Getopt::Long", "File::Find::Rule", "List::Util::WeightedChoice", "Data::Random"
 
+<br />
 
 
-### Detailed procedures   
+### Detailed procedures
+
+<br />
 
 #### Step1: Run extract_AT_homomeric_regions.pl to get the positions of A/T homomeric regions, i.e., regions with >= 3 As or >= Ts:
 
