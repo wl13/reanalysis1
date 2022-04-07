@@ -26,8 +26,8 @@ Data used and original plots regarding TSS/TTS regions, detailed statistics are 
 Example of BAM alignments shown in IGV (http://www.broadinstitute.org/software/igv/), more snapshots are available in igv_snapshots_for_clustered_somatic_mutations
 
 
-Notes:
-(1) TEs are annotated based on "TAIR10_GFF3_genes_transposons.gff", so a few more mutations were annotated as TEs than labeled in original Weng's data. But this makes no big differences in all analysis.
+## Notes:
+(1) TEs are annotated based on "TAIR10_GFF3_genes_transposons.gff", so a few more mutations were annotated as TEs than labeled in original Weng's data. But no apparent influence was found in all analysis.
 
 (2) The TSS/TTS positions are likely directly extracted based on the "gene" features provided in "TAIR10_GFF3_genes.gff" though the "gene" features there included 5'- and 3'- UTRs. This was left as it is to keep consistency with original analyses. 
 
