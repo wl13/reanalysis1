@@ -27,12 +27,12 @@ Data used and original plots of CDS/INTRON mutation rates in genes of different 
 <br />
 
 ### TSS_TTS_plot
-Data used and original plots regarding TSS/TTS regions, detailed statistics are given in "mutation_compare_in_regions_of_different_essentiality.xlsx". Code and data used to perform the random simulation are provided under folder *random_simulation*
+Data used and original plots regarding TSS/TTS regions, detailed statistics are given in "mutation_compare_in_regions_of_different_essentiality.xlsx". Code and data used to perform the random simulation are provided under folder **random_simulation**
 
 <br />
 
 ### File A2.example_snapshots_of_homomeric_associated_mutations.v2.pptx
-Example of BAM alignments shown in IGV (http://www.broadinstitute.org/software/igv/), more snapshots are available in *igv_snapshots_for_clustered_somatic_mutations*
+Example of BAM alignments shown in IGV (http://www.broadinstitute.org/software/igv/), more snapshots are available in **igv_snapshots_for_clustered_somatic_mutations**
 
 <br />
 
