@@ -36,6 +36,13 @@ Example of BAM alignments shown in IGV (http://www.broadinstitute.org/software/i
 
 <br />
 
+
+### equilibrium
+Code for the dinucleotide equilibrium analysis
+
+<br />
+
+
 ### Notes:
 (1) TEs are annotated based on "TAIR10_GFF3_genes_transposons.gff", so a few more mutations were annotated as TEs than labeled in original Weng's data. But no apparent influence was found in all analysis.
 
