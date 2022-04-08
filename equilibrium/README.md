@@ -23,11 +23,11 @@ Note that all dinucleotide ref/alt combinations must be included even if the num
 
 Example input TSV (first 5 lines):
 
-ref	alt	count	total
-aa	ac	18	13775613
-aa	ag	39	13775613
-aa	at	35	13775613
-aa	ca	19	13775613
+		ref	alt	count	total
+		aa	ac	18	13775613
+		aa	ag	39	13775613
+		aa	at	35	13775613
+		aa	ca	19	13775613
 
 ### Output file (edit path within script) ###
 
