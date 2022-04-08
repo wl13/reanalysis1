@@ -6,8 +6,9 @@ library(data.table)
 #variants<-fread("data/6320_somatic_muts.csv")
 #variants<-fread("data/1865_germline_SNMs.csv")
 #variants<-fread("data/1021_germline_nonTE_SNMs.csv")
-variants<-fread("data/760_original_Weng_version_of_unique_TE_SNMs.csv")
+#variants<-fread("data/760_original_Weng_version_of_unique_TE_SNMs.csv")
 #variants<-fread("data/844_germline_TE_SNMs.csv")
+variants<-fread("data/841_Weng_TE_SNMs.csv")
 
 # annotaiton file source and cleanup
 #download.file("https://www.arabidopsis.org/download_files/Genes/TAIR10_genome_release/TAIR10_gff3/TAIR10_GFF3_genes.gff", destfile="data/TAIR10_GFF3_genes.gff")
