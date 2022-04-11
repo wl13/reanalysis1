@@ -46,6 +46,6 @@ Code for the dinucleotide equilibrium analysis
 ### Notes:
 (1) TEs are annotated based on "TAIR10_GFF3_genes_transposons.gff", so a few more mutations were annotated as TEs than labeled in original Weng's data. But no apparent influence was found in all analysis.
 
-(2) Raw fastq files were downloaded from EBI (PRJNA434660). BAM files were generated using BWA-mem (version 0.7.10-r789), and were sorted and processed with MarkDuplicates from picard-tools (version 1.114), and further realigned with GenomeAnalysisTK (version 3.7).
+(2) Raw fastq files were downloaded from EBI (PRJNA434660:SRR6862404-SRR6862510). BAM files were generated using BWA-mem (version 0.7.10-r789), and were sorted and processed with MarkDuplicates from picard-tools (version 1.114), and further realigned with GenomeAnalysisTK (version 3.7).
 
 <br />
