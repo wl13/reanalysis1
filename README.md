@@ -46,8 +46,6 @@ Code for the dinucleotide equilibrium analysis
 ### Notes:
 (1) TEs are annotated based on "TAIR10_GFF3_genes_transposons.gff", so a few more mutations were annotated as TEs than labeled in original Weng's data. But no apparent influence was found in all analysis.
 
-(2) The TSS/TTS positions are likely directly extracted based on the "gene" features provided in "TAIR10_GFF3_genes.gff" though the "gene" features there included 5'- and 3'- UTRs. This was left as it is to keep consistency with original analyses. 
-
-(3) BAM files are generated using BWA-mem (version 0.7.10-r789), and were sort and MarkDuplicates with picard-tools (version 1.114), and further realigned with GenomeAnalysisTK (version 3.7).
+(2) BAM files are generated using BWA-mem (version 0.7.10-r789), and were sort and MarkDuplicates with picard-tools (version 1.114), and further realigned with GenomeAnalysisTK (version 3.7).
 
 <br />
