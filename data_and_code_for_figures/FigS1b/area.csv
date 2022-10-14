@@ -1,0 +1,10 @@
+
+Affected_regions,Weng_Conf,Monroe_Conf,Weng_LowQ,Monroe_LowQ,vcf-SNP
+3_prime_UTR_variant,35,3,2,128,2658
+5_prime_UTR_variant,21,1,2,106,1970
+intergenic_regio,452,44,47,2262,35362
+intron_variant,137,17,5,486,8692
+non-syn_variant,176,18,5,91,1588
+synonymous_variant,88,5,2,47,750
+stop_gained,12,1,0,0,75
+TE,797,70,44,991,20432

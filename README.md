@@ -7,7 +7,12 @@ Original data and plots uesd for reanalysis purposed
 
 <br />
 
-### File A1.complete_mutation_list_with_labels.v5.xlsx
+### data_and_code_for_figures
+
+This folder contains source data and codes directly used for producing each figure and supplementary figures, more details are provided in other folders explained below
+
+
+#### Fig1b: File A1.complete_mutation_list_with_labels.v5.xlsx
 
 This excel file contains four sheets:
 
@@ -31,8 +36,8 @@ Data used and original plots regarding TSS/TTS regions, detailed statistics are 
 
 <br />
 
-### File A2.example_snapshots_of_homomeric_associated_mutations.v2.pptx
-Example of BAM alignments shown in IGV (http://www.broadinstitute.org/software/igv/), more snapshots are available in **igv_snapshots_for_clustered_somatic_mutations**
+### igv_snapshots
+Example of BAM alignments (against TAIR10 reference) shown in IGV (http://www.broadinstitute.org/software/igv/), the File A2.example_snapshots_of_homomeric_associated_mutations.v2.pptx gives examples of biased strands, more snapshots for problematic clustered "mutations" are given in **clustered_somatic_mutations**
 
 <br />
 
