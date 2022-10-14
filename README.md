@@ -1,5 +1,5 @@
 # reanalysis1
-Original data and plots uesd for reanalysis purposed
+Original data and codes uesd for reanalysis purposed
 
 <br />
 
@@ -7,20 +7,10 @@ Original data and plots uesd for reanalysis purposed
 
 <br />
 
-### data_and_code_for_figures
+### Fig1a,b, FigS1a~g
 
-This folder contains source data and codes directly used for producing each figure and supplementary figures, more details are provided in other folders explained below
+These folders contain source data and codes used for producing each figure and supplementary figures
 
-
-<br />
-
-### essentiality_plot
-Data used and original plots of CDS/INTRON mutation rates in genes of different essentiality
-
-<br />
-
-### TSS_TTS_plot
-Data used and original plots regarding TSS/TTS regions, detailed statistics are given in "mutation_compare_in_regions_of_different_essentiality.xlsx". Code and data used to perform the random simulation are provided under folder **random_simulation**
 
 <br />
 
